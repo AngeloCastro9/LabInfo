@@ -1,0 +1,16 @@
+C:\Users\Angelo\Desktop\Project_LabInfo-master\WpfApp1\obj\Release\MainWindow.g.cs
+C:\Users\Angelo\Desktop\Project_LabInfo-master\WpfApp1\obj\Release\App.g.cs
+C:\Users\Angelo\Desktop\Project_LabInfo-master\WpfApp1\obj\Release\MainWindow.baml
+C:\Users\Angelo\Desktop\Project_LabInfo-master\WpfApp1\obj\Release\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Angelo\Desktop\Project_LabInfo-master\WpfApp1\obj\Release\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\Project_LabInfo-master\WpfApp1\bin\Release\LabInfo.exe.config
+C:\Users\Angelo\Desktop\Project_LabInfo-master\WpfApp1\bin\Release\LabInfo.exe
+C:\Users\Angelo\Desktop\Project_LabInfo-master\WpfApp1\bin\Release\LabInfo.pdb
+C:\Users\Angelo\Desktop\Project_LabInfo-master\WpfApp1\obj\Release\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Angelo\Desktop\Project_LabInfo-master\WpfApp1\obj\Release\LabInfo_MarkupCompile.cache
+C:\Users\Angelo\Desktop\Project_LabInfo-master\WpfApp1\obj\Release\LabInfo_MarkupCompile.lref
+C:\Users\Angelo\Desktop\Project_LabInfo-master\WpfApp1\obj\Release\LabInfo.g.resources
+C:\Users\Angelo\Desktop\Project_LabInfo-master\WpfApp1\obj\Release\WpfApp1.FormPing.resources
+C:\Users\Angelo\Desktop\Project_LabInfo-master\WpfApp1\obj\Release\LabInfo.Properties.Resources.resources
+C:\Users\Angelo\Desktop\Project_LabInfo-master\WpfApp1\obj\Release\LabInfo.exe
+C:\Users\Angelo\Desktop\Project_LabInfo-master\WpfApp1\obj\Release\LabInfo.pdb
